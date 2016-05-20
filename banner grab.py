@@ -60,6 +60,6 @@ def main(ip):
     #print counter
 
 if __name__=='__main__':
-    ip = "192.168.239.128"
+    ip = "Put IP here"
     main(ip)
 
